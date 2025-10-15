@@ -6,8 +6,14 @@
   <img align="center" alt="Fran-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Fran-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Fran-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" />
+</div>
 
-
+<div> 
+  <a href="(https://www.instagram.com/fran_sena11?igsh=bHFiaHgycXE0YXdx)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/7wes6GMj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:franciscodias0202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/francisco-moreira-74188229b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 <!--
 **D3VS3N4/D3VS3N4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
