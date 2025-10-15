@@ -1,6 +1,15 @@
 ## Olá eu sou o Francisco Moreira,estudante da área de desenvolvimento de software 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3VS3N4)](https://github.com/anuraghazra/github-readme-stats)
+🎓 Estudante de Ciência da Computação (2º período)  
+💻 Apaixonado por desenvolvimento web, automações e infraestrutura  
+🚀 Em busca de oportunidades para aplicar e expandir meus conhecimentos em TI
+## 🛠 Tecnologias
+-	HTML, CSS, JavaScript
+-	Node.js, Express
+-	Git, GitHub
+-	Em aprendizado contínuo: React, Docker
+## 📂 Projetos em destaque
+-	[Sistema de Agendamento](https://github.com/D3VS3N4/Puma): Site para desenvolvimento de conhecimentos de front-ent,simulando uma loja da Puma
+-	[API de Produtos](https://github.com/D3VS3N4/projeto_Chico): Backend em Node.js com Express e MongoDB
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fran-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
