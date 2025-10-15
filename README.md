@@ -1,7 +1,6 @@
 ## Olá eu sou o Francisco Moreira,estudante da área de desenvolvimento de software 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3VS3N4anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3VS3N4anuraghazra&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3VS3N4)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fran-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
