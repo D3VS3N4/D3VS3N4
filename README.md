@@ -1,12 +1,16 @@
 ## Olá eu sou o Francisco Moreira,estudante da área de desenvolvimento de software 👋
 🎓 Estudante de Ciência da Computação (2º período)  
 💻 Apaixonado por desenvolvimento web, automações e infraestrutura  
-🚀 Em busca de oportunidades para aplicar e expandir meus conhecimentos em TI
+🚀 Em busca de oportunidades para aplicar e expandir meus conhecimentos em TI  
+🗣️ Uma frase:
+ "Acredito que reconhecer o que ainda não sei é um passo importante para evoluir. Quando enfrento algo novo, não tenho receio de admitir que não conheço — mas me comprometo a buscar a resposta e voltar no dia seguinte com a solução."
+
 ## 🛠 Tecnologias
 -	HTML, CSS, JavaScript
 -	Node.js, Express
 -	Git, GitHub
 -	Em aprendizado contínuo: React, Docker
+-	
 ## 📂 Projetos em destaque
 -	[Site Puma](https://github.com/D3VS3N4/Puma): Site para desenvolvimento de conhecimentos de front-ent,simulando uma loja da Puma
 -	[API de Produtos](https://github.com/D3VS3N4/projeto_Chico): Backend em Node.js com Express e MongoDB
