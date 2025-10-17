@@ -7,10 +7,10 @@
 
 ## 🛠 Tecnologias
 -	HTML, CSS, JavaScript
--	Node.js, Express
+-	Node.js, Express, C, C#
+-	MongoDB,SQL Server
 -	Git, GitHub
 -	Em aprendizado contínuo: React, Docker
--	
 ## 📂 Projetos em destaque
 -	[Site Puma](https://github.com/D3VS3N4/Puma): Site para desenvolvimento de conhecimentos de front-ent,simulando uma loja da Puma
 -	[API de Produtos](https://github.com/D3VS3N4/projeto_Chico): Backend em Node.js com Express e MongoDB
