@@ -10,6 +10,7 @@
 -	Node.js, Express, C, C#
 -	MongoDB,SQL Server
 -	Git, GitHub
+-	Metodologia ágil (Scrum)
 -	Em aprendizado contínuo: React, Docker
 ## 📂 Projetos em destaque
 -	[Site Puma](https://github.com/D3VS3N4/Puma): Site para desenvolvimento de conhecimentos de front-ent,simulando uma loja da Puma
